@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Curso de HTML5</title>
+	<style>
+		H1{
+			font-family: Arial;
+			font-size: 30pt;
+			color: #6E09D0;
+			text-shadow: 2px 2px 2px black;	
+		}
+	</style>
+</head>
+
+<body>
+	<h1>Olá Mundo!</h1>
+	<h2>Me livrando da maldição</h2>
+	<h1>Oba! Me livrei!</h1>
+	<h2>Oi isso é uma brincadeira, teoricamente tem uma lenda na computação que fala que seu primeiro site deve ter escrito "olá Mundo", porque senão você nunca mais vai conseguir programar mais nada direito. Então melhor não arriscar. Kkkkkkkk</h2>
+</body>
+</html>
